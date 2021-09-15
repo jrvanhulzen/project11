@@ -1,7 +1,9 @@
 # project11
-Project 11 python software
-Software has been created and updated using varios open source projects
-Main contributer Jari Dekker, Jan van Hulzen
+Project 11 software for raspberrypi
+
+Software has been created, modified and updated using various open source projects and code snippets.
+
+Main contributer changes Jari Dekker, Jan van Hulzen
 
 Install on raspberry pi using
 
